@@ -1,0 +1,21 @@
+body  {
+background-color: aliceblue;
+
+
+}
+
+.figure { 
+ max-width: 100px;
+ max-height: 100px;
+
+ }
+
+.what {
+height: 400px;
+width: 400px; 
+
+}
+
+.navbar-brand{
+ background-color: aliceblue;
+}
